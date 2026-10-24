@@ -1,0 +1,11 @@
+{
+  "name": "Тысяча — счёт игры",
+  "short_name": "Тысяча",
+  "description": "Счётчик очков, болтов, ямы и бочки для игры в Тысячу",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101625",
+  "theme_color": "#172033",
+  "lang": "ru"
+}
