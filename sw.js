@@ -1,7 +1,7 @@
 'use strict';
 
 // Service worker for the Thousand scorekeeper PWA.
-const CACHE_NAME = 'tysyacha-pwa-v3';
+const CACHE_NAME = 'tysyacha-pwa-v4';
 const APP_FILES = ['./index.html', './manifest.json'];
 
 self.addEventListener('install', (event) => {
